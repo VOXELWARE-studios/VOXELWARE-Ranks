@@ -16,7 +16,7 @@ A resource pack for Java and Bedrock that adds custom ranks, compatible with Gey
 
 | Rank | Glyph |
 |------|-------|
-| Member |  | 
+| Co-owner |  | 
 | Media |  | 
 | Manager |  | 
 | Helper |  | 
@@ -27,7 +27,7 @@ A resource pack for Java and Bedrock that adds custom ranks, compatible with Gey
 | Noob |  | 
 | Owner |  | 
 | Admin |  | 
-| Pro |  | 
+| Muslim |  | 
 | Twitch |  | 
 | OG |  | 
 | Builder |  | 
