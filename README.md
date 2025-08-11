@@ -47,8 +47,8 @@ A resource pack for Java and Bedrock that adds custom ranks, compatible with Gey
 Kasaisora Tutorial: https://www.youtube.com/watch?v=2clJmbuH_t0&t=17s
 ### Java Edition
 ```bash
-resource-pack=https://nauticalhosting.org/Nautical-Ranks-V3-Java.zip
-resource-pack-sha1=6c47421e9cbc87bc0270364548a6c00da1340a46
+resource-pack=https://download.mc-packs.net/pack/79f3130ca654d0a2b2434bbbf823770cb235231e.zip
+resource-pack-sha1=79f3130ca654d0a2b2434bbbf823770cb235231e
 ```
 
 ### Bedrock Edition
