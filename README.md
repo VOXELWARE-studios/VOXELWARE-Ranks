@@ -10,7 +10,7 @@ A resource pack for Java and Bedrock that adds custom ranks, compatible with Gey
 - Free
 - Custom Rank Designs
 
-![Ranks Image](https://i.postimg.cc/0NMQF8k2/image.png](https://raw.githubusercontent.com/membercatcousin/darkmoon-studios-webite/refs/heads/main/glyph_E8.pn))
+![showcase](https://raw.githubusercontent.com/membercatcousin/darkmoon-studios-webite/refs/heads/main/glyph_E8.png)
 
 ## Available Ranks
 
