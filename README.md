@@ -57,5 +57,3 @@ Download directly from this github or our website
 ## Support
 - Email: support@nauticalhosting.org
 - Discord: [Join our community](https://discord.gg/NedHt6FVwj)
-
-![Nautical Services Logo](https://i.postimg.cc/gj6SSb7W/Nautical-Services-Bot.png)
